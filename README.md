@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divinebolt
+- 👋 Hi, I’m João Gonçalo
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ruby
 - 💞️ I’m looking to collaborate on LeWagon course
