@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ruby
 - 💞️ I’m looking to collaborate on LeWagon course
-- 📫 How to reach me divinebolt@gmail.com
+- 📫 How to reach me joaogoncalob@gmail.com
 
 <!---
 divinebolt/divinebolt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
