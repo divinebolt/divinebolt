@@ -1,7 +1,7 @@
 - 👋 Hi, I’m João Gonçalo
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ruby
-- 💞️ I’m looking to collaborate on LeWagon course
+- 🌱 I’m currently changing my programs from Rails 6 to Rails 7
+- 💞️ 
 - 📫 How to reach me joaogoncalob@gmail.com
 
 <!---
